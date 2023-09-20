@@ -1,0 +1,6 @@
+@inproceedings{chen2023tem-adapter,
+  title={Tem-adapter: Adapting Image-Text Pretraining for Video Question Answer},
+  author={Chen, Guangyi and Liu, Xiao and Wang, Guangrun and Zhang, Kun and Torr, Philip HS and Zhang, Xiao-Ping and Tang, Yansong},
+  booktitle={ICCV},
+  year={2023}
+}
